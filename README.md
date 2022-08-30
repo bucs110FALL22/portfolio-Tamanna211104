@@ -10,7 +10,7 @@ Welcome to CS 110. I look forward to working with you this semester. This is you
 
 ## Student Info - MUST BE COMPLETED
 
-Preferred Name: Tamanna Arora/ Tam  
+Preferred Name: Tamanna Arora / Tam  
 
 Discord username:Tam Arora#1192
 
