@@ -1,10 +1,10 @@
 # this prints hello
-print("Hello, World")  # comment after line
+print("Hello, World") # comment after line 
 
-# no multi-line comments
+# no multi-line comments 
 
 # a
 # b
-# c
+# c 
 
 #print('Hello, World')
