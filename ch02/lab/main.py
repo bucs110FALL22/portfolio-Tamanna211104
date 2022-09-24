@@ -8,3 +8,9 @@ print("Cost per week:", cost_per_week)
 
 
 #Part B
+import random 
+random.randrange(1,10)
+ls = ("Purple", True, 50, 52.5)
+random.choice()
+result = random.choice()
+print(result)
