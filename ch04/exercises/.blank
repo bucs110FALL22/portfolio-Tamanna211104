@@ -1,0 +1,19 @@
+article = """
+Nanotechnology, in the context of computer science, is a type of engineering geared toward building electronic components and devices measured in nanometers, which are extremely tiny in size and structure. Nanotechnology facilitates the building of functional matter and systems at the scalar level of an atom or molecule. It incorporates concepts from physics, biology, engineering and many other disciplines.
+
+Nanotechnology is also known as nanotech.Nanotechnology is a scientific field that uses system or component development techniques to build products on highly granular levels. Nanotechnology works through different approaches to build nano materials or products, including bottom-up, top-down and functional system development. In a bottom-up approach, a product is designed as it evolves from its tiniest form factor to larger product. In a top-down approach, a large product may be reverse engineered to develop products scaled according to nanometer. A functional approach deals with a complete system and may incorporate bottom-up and top-down approaches.
+
+Nanotechnology is implemented in many different fields and applications, such as computing, biotechnology, electronics and chemical engineering.
+"""
+
+substitution = {"context":"relation to"
+
+
+
+
+
+
+
+
+
+}
