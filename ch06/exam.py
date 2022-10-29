@@ -1,14 +1,4 @@
-# CS110 Midterm Exam
-
-## SHORT DESCRIPTION *(penguin drawing using functions and turtle module)*
-
-## KNOWN BUGS AND INCOMPLETE PARTS *(I find it difficult to get the penguin to move around and the console says unable to run, main file ".replit" not found )*
-
-## REFERENCES *(free code camp youtube tutorials)*
-
-## MISCELLANEOUS COMMENTS *(I may be facing some issue with the platform of repl as I unable to run the code, I also have not recieved any response from the TA or my Professor on Discord)*
-
-from turtle import *
+import turtle
 '''
 #movement
 turtle.forward(100)
@@ -46,7 +36,7 @@ turtle.forward(100)
 '''
 #body
 turtle.setheading(270)
-turtle.turtle.begin_fill()
+turtle.begin_fill()
 turtle.circle(50,180)
 turtle.forward(80)
 turtle.circle(50,180)
