@@ -1,0 +1,28 @@
+import turtle
+
+my_turtle = turtle.Turtle() #Factories
+
+my_turtle.forward(50)
+my_turtle.color("green")
+
+my_turtle.shape("turtle")
+my_turtle.left(90)
+my_turtle.forward(20)
+
+my_turtle.up()
+my_turtle.forward(20)
+my_turtle.down()
+
+my_turtle.color("blue")
+my_turtle.forward(20)
+
+window = turtle.Screen()
+window.bgcolor("orange")
+
+my_turtle = turtle.Turtle()    
+num_sides = int(input("Please enter the number of sides: "))
+my_turtle.color("purple")
+length = 50
+angle = 360 / num_sides
+
+window.exitonclick()
